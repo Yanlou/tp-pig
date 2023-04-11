@@ -1,0 +1,13 @@
+1; RADOUANI; Mohamed; 10/08/1987; Masculin; Detergent;2; 100 MAD 
+2; OUAFIQ; Samira; 11/10/1982; Masculin; Costume;1; 4000 MAD 
+3; LHARROUCH; Oualid; 12/08/1990; Feminin; Vehicule;1; 100000 MAD 
+4; LBOUKHARI; Aadnane; 03/08/1989; Masculin; Dentifrice;4; 130 MAD 
+5; EZZEROUAL; Hanae; 07/07/1986; Masculin; Livre;10; 140 MAD 
+6; AZZAOUI; Amira; 12/08/1990; Feminin; Vehicule;1; 70000 MAD 
+7; MAGDALA; Mariam; 16/02/1987; Feminin; Tablette;1; 770 MAD 
+8; BOUZID; Fouad; 25/04/1990; Masculin; Maison;1; 1258000 MAD 
+9; EL BAJJAOUY; Karim; 18/03/1983; Masculin; Vehicule;1; 59000 MAD 
+10; KHAYYA; Samir; 30/06/1989; Masculin; Vehicule;1; 85000 MAD 
+11; EL AMRANI; Youssef; 20/01/1988; Masculin; Detergent;2; 200 MAD 
+12; ELLAMAI; Hicham; 21/08/1987; Masculin; Vehicule;1; 120000 MAD 
+13; BALI; Aicha; 22/08/1987; Masculin; Livre;2; 220 MAD
